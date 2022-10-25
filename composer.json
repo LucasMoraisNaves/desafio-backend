@@ -1,0 +1,17 @@
+{
+    "name": "naves/desafio",
+    "description": "Projeto API conekta",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Naves",
+            "email": "naves.lucas@outlook.com"
+        }
+    ],
+    "require": {}
+}

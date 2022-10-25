@@ -1,0 +1,19 @@
+Esse projeto comtem 3 class
+
+Pdv;
+Limite;
+Venda;
+
+Class PDV contem 2 rotas 
+GET pdv/buscar
+POST pdv/inserir
+
+Class Limite Contem 3 rotas 
+POST limite/buscar
+POST limite/inserir
+POST limite/pagar
+
+Class Venda contem 3 rotas
+GET venda/buscar
+POST venda/inserir
+POST venda/cancelar
